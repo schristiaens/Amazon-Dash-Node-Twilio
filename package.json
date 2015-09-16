@@ -1,9 +1,9 @@
 {
   "name" : "Dashers",
-  "version" ".1",
+  "version" : "0.0.1",
     "dependencies": {
       "config": "*",
-      "arpListener ": "*",
+      "arp-listener": "*",
       "twilio" : "*",
       "mixpanel" : "*",
       "giphy-wrapper" : "*"
