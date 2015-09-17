@@ -6,6 +6,7 @@
       "arp-listener": "*",
       "twilio" : "*",
       "mixpanel" : "*",
-      "giphy-wrapper" : "*"
+      "giphy-wrapper" : "*",
+      "request" : "*"
     }
 }

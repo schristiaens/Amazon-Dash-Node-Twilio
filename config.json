@@ -4,7 +4,7 @@
     "smsToPhoneNumber": "SENDTONUMBER",
     "smsFromPhoneNumber": "SENDFROMNUMBER",
     "mixpanel" : "YOURKEYS",
-    "iftttkeys" : "YOURIFTTTMAKERCHANNELKEY",
-    "pushMAC" : "",
+    "iftttkeys" : "bzErM-I3I7SJPwAlTUjoLA",
+    "pushMAC" : "74:75:48:41:39:62",
     "defaultMAC" : "" 
 }

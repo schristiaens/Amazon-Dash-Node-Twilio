@@ -2,7 +2,7 @@ var config = require('./config.json');
 var arpListener = require('arp-listener');
 var request = require('request');
 
-arpListener('en0', function(arpData) {
+arpListener('wlan0', function(arpData) {
 
   if (arpData.sender_ha == config.pushMAC) {
   	console.log('pushed');
